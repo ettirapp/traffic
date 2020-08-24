@@ -1,0 +1,20 @@
+1	I	Bronx		#approximate - this bridge connects 3 boroughs, so data is not specific
+1	O	Queens		#approximate - "
+2	I	Manhattan	#approximate - "
+2	O	Queens		#approximate - "
+3	I	Bronx		
+3	O	Queens	
+4	I	Manhattan	
+4	O	Bronx	
+5	I	Rockaways	
+5	O	Brooklyn	
+6	I	Queens	
+6	O	Rockaways	
+7	I	Manhattan	
+7	O	Queens	
+8	I	Manhattan	
+8	O	Brooklyn	
+9	I	Bronx	
+9	O	Queens	
+10	I	Staten Island	
+10	O	Brooklyn	
